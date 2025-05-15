@@ -84,7 +84,7 @@ body{
     position:relative;
 }
 .sale-image img{
-    width: 100%;
+    width: 100%;clear
 }
 .sale-image__offer{
     background-color: white;
